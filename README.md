@@ -50,3 +50,4 @@ Connection diagram
 <a href="https://ibb.co/6JzYJ0w"><img src="https://i.ibb.co/YTm2TBQ/Conexion.png" alt="Conexion" border="0"></a>
 
 ## How to use
+como ??
