@@ -43,7 +43,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 ## Setup
 1. Connect the PIC16f15244 Curiosity Nano board to a PC using the Micro-USB to USB 2.0 cable.
 2. If not already on your system, download and install MPLABX IDE version 5.40 (or newer).
-3. If not already on your system, download and install the XC8 C-Compiler version 2.20 (or newer).
+3. If not already on your system, download and install the XC8 C-Compiler version 2.31 (or newer).
 4. Open the 'contador.X' project .
 
 Connection diagram 
