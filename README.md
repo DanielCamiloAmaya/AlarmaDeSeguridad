@@ -1,4 +1,5 @@
 # AlarmaDeSeguridad
+This project uses the Curiosity Nano Development board PIC16F15244 to detect people and alarm of possible theft.
 ## Related Documentation
 - [PIC16F15244 Product Page](https://www.microchip.com/wwwproducts/en/PIC16F15244)
 - [Datasheet PIC16F15244](http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F15213-14-23-24-43-44-Data-Sheet-DS40002195B.pdf)
@@ -49,10 +50,3 @@ Connection diagram
 <a href="https://ibb.co/6JzYJ0w"><img src="https://i.ibb.co/YTm2TBQ/Conexion.png" alt="Conexion" border="0"></a>
 
 ## How to use
-The device uses buttons to emulate the functions of 2 infrared sensors that would be located on the threshold of the entrance door.
-The system counts the number of people entering and leaving the site and displays it on an LCD screen. In the event that a person enters the site, first the button connected to pin RB7 and then the button connected to pin RB5 of the Curiosity Nano must be shut off (without leaving it pressed), and in the event that a person leaves, the process is reversed, first the RB5 button is shut off and then the RB7 button.
-
-The system allows you to set the maximum capacity, holding the button connected to the RA4 pin for 3 seconds, you can enter the "Configuration" section where you can navigate between 2 options, "Sum" and "Subtraction" by pressing the button once, to select one of the 2, press the same button for 5 seconds, then you have the option to change the maximum capacity of 10 in 10, to confirm and exit the menu, press the button again for 5 seconds.
-
-
-Each option is displayed on the LCD. 
