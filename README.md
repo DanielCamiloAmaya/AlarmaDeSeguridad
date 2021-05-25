@@ -46,7 +46,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 3. If not already on your system, download and install the XC8 C-Compiler version 2.31 (or newer).
 4. Open the 'alarma1.x' project.
 
-Connection diagram
+Schematic
 <a href="https://ibb.co/FB7QG66"><img src="https://github.com/DanielCamiloAmaya/AlarmaDeSeguridad/blob/80d2b6656dee6247ce7715e085c0a80ffe2261cc/Data/EsquematicoAlarma.png" alt="Conexion" border="0"></a>
 
 ## How to use
