@@ -27,7 +27,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 - LCD Display 20x4
 - Push button
 - Potentiometer 10k
-- Resistance 330
+- Resistances 4.7kΩ,3-(10kΩ),320Ω.
 - Jumpers
 - adapter 5v 1A
 - Protoboard
