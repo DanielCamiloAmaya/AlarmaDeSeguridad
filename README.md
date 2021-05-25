@@ -47,7 +47,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 4. Open the 'alarma1.x' project.
 
 Connection diagram
-<a href="https://ibb.co/FB7QG66"><img src="https://i.ibb.co/YTm2TBQ/Conexion.png" alt="Conexion" border="0"></a>
+<a href="https://ibb.co/FB7QG66"><img src="https://github.com/DanielCamiloAmaya/AlarmaDeSeguridad/blob/80d2b6656dee6247ce7715e085c0a80ffe2261cc/Data/EsquematicoAlarma.png" alt="Conexion" border="0"></a>
 
 ## How to use
 The power supply is turned on in that way the lcd is activated in which it asks us for the password, at that moment the password is entered
