@@ -24,7 +24,7 @@ This project uses the Curiosity Nano Development board PIC16F15244 to detect peo
 The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform to evaluate PIC microcontrollers. The evaluation kit comes with a fully integrated programmer and debugger that provides seamless integration with Microchip MPLAB X. The kit provides access to the features of the PIC16F15244 enabling easy integration of the device in a custom design. The kit features variable voltage, a virtual serial port, and a DGI interface for easy development and debugging.
 - PIC16F15244 Curiosity Nano [(EV09Z19A)](https://www.microchip.com/Developmenttools/ProductDetails/EV09Z19A)
 - Micro-USB to USB 2.0 cable
-- LCD Display 16x2
+- LCD Display 20x4
 - Push button
 - Potentiometer 10k
 - Resistance 330
@@ -44,10 +44,12 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 1. Connect the PIC16f15244 Curiosity Nano board to a PC using the Micro-USB to USB 2.0 cable.
 2. If not already on your system, download and install MPLABX IDE version 5.40 (or newer).
 3. If not already on your system, download and install the XC8 C-Compiler version 2.31 (or newer).
-4. Open the '........! project.
+4. Open the 'alarma1.x' project.
 
 Connection diagram
 <a href="https://ibb.co/6JzYJ0w"><img src="https://i.ibb.co/YTm2TBQ/Conexion.png" alt="Conexion" border="0"></a>
 
 ## How to use
-como ??
+The power supply is turned on in that way the lcd is activated in which it asks us for the password, at that moment the password is entered
+by means of 3 buttons, there is when the pir sensor can detect movement, if it detects movement the led turns on, if the wrong input is entered twice
+password a security lock is made and the only way to deactivate it is to disconnect it from the power source.
