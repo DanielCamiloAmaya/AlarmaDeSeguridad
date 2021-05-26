@@ -36,7 +36,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 
 ![enter image description here](https://external-content.duckduckgo.com/iu/?u=http://www.hobbytronics.co.uk/image/cache/data/dealextreme/lcd-blue-16x2-500x500.jpg&f=1&nofb=1)
 
-![enter image description here](https://ibb.co/W3TqXDp)
+![enter image description here](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-3fd3md1ghs%2Fimages%2Fstencil%2F500x659%2Fproducts%2F24936%2F11047%2FHC-SR501__57152.1575106278.jpg%3Fc%3D2&f=1&nofb=1)
 
 ![enter image description here](https://external-content.duckduckgo.com/iu/?u=https://www.vapeitalia.it/media/catalog/product/cache/1/image/363x/5cfc8b4d9849831add20660d2bfd8996/c/a/cavo-micro-usb-15mt-cf737-matsuyama.jpg&f=1&nofb=1)
 
