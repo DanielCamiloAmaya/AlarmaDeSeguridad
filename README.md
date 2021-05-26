@@ -36,9 +36,8 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 
 ![enter image description here](https://external-content.duckduckgo.com/iu/?u=http://www.hobbytronics.co.uk/image/cache/data/dealextreme/lcd-blue-16x2-500x500.jpg&f=1&nofb=1)
 
-![enter image description here](https://external-content.duckduckgo.com/iu/?u=https://emartee.com/Images/websites/emartee.com/products/thumbnails/big/41797.jpg&f=1&nofb=1)
-
 ![enter image description here](https://external-content.duckduckgo.com/iu/?u=https://www.vapeitalia.it/media/catalog/product/cache/1/image/363x/5cfc8b4d9849831add20660d2bfd8996/c/a/cavo-micro-usb-15mt-cf737-matsuyama.jpg&f=1&nofb=1)
+
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHClGVUAKXOtd89kzGMdwYVQi_2_lnk5IHA&usqp=CAU)
 ## Setup
 1. Connect the PIC16f15244 Curiosity Nano board to a PC using the Micro-USB to USB 2.0 cable.
