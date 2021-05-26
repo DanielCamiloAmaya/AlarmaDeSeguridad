@@ -29,7 +29,7 @@ The Microchip PIC16F15244 Curiosity Nano evalutation kit is a hardware platform 
 - Potentiometer 10k
 - Resistances 4.7kΩ,3-(10kΩ),320Ω.
 - Jumpers
-- adapter 5v 1A
+- 5v source
 - Protoboard
 
 ![Curiosity Nano](https://external-content.duckduckgo.com/iu/?u=https://www.microchip.com/images/default-source/design-centers/8-bit-mcus/pic-device-selection/ev09z19a_pic16f15244-curiosity-nano-board-front-transparent.png?sfvrsn=8337e3b9_0&f=1&nofb=1)
